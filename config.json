@@ -1,0 +1,23 @@
+{
+    "positionTolerancePx": 10.0,
+    "angleToleranceDeg": 10.0,
+    "requireSameParentSpace": true,
+    "walkerMinX": -900.0,
+    "walkerMaxX": 900.0,
+    "walkerMinY": -500.0,
+    "walkerMaxY": -500.0,
+    "walkerMinRotZ": -180.0,
+    "walkerMaxRotZ": 180.0,
+    "shadowMinX": -900.0,
+    "shadowMaxX": 900.0,
+    "shadowMinY": 500.0,
+    "shadowMaxY": 500.0,
+    "shadowMinRotZ": -180.0,
+    "shadowMaxRotZ": 180.0,
+    "minDistanceBetweenObjectsPx": 100.0,
+    "maxTriesForSecondPoint": 30,
+    "respawnCooldownSec": 0.20000000298023225,
+    "logIntervalSec": 0.10000000149011612,
+    "writeHeader": true,
+    "seVolume": 1.0
+}
